@@ -9,7 +9,7 @@
     "dev": "node server.js",
     "build": "next build",
     "start": "node server.js",
-    "prod": "yarn start"
+    "prod": "yarn build && yarn start"
   },
   "dependencies": {
     "@casl/ability": "^3.0.1",
