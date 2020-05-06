@@ -7164,10 +7164,10 @@ next-offline@^4.0.5, next-offline@^4.0.6:
     webpack "^4.19.1"
     workbox-webpack-plugin "^4.3.1"
 
-next-optimized-images@2.5.3:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/next-optimized-images/-/next-optimized-images-2.5.3.tgz#40b8f0f98917742e3262d5b4ffac68ee09cfee30"
-  integrity sha512-eyTGBluzqZVZCqq5/+B+CoKWZJ8+ooIj7b4Z7jvQ38vVBOfZy4MeIh4oHrnk3KD4HM9qU/xDKBZuV6sgXSusdw==
+next-optimized-images@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/next-optimized-images/-/next-optimized-images-2.6.0.tgz#10ae5feca4148d3abe4a6781e304bcb1d5c3c557"
+  integrity sha512-z+dASQLXIJPrc1iBt+jm5bravXud3nZ3de3Y3HgUNpJNUdkweym91dvKVgmvpXkEaNzExArybuSVNhOB2vR5qA==
   dependencies:
     chalk "^2.4.2"
     figures "^3.0.0"
